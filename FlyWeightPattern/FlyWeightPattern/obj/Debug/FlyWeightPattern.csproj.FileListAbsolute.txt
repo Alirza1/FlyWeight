@@ -1,0 +1,13 @@
+C:\Users\alirz\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\FlyWeightPattern.exe.config
+C:\Users\alirz\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\FlyWeightPattern.exe
+C:\Users\alirz\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\FlyWeightPattern.pdb
+C:\Users\alirz\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\dotMemory.Unit.dll
+C:\Users\alirz\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\nunit.framework.dll
+C:\Users\alirz\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\dotMemory.Unit.xml
+C:\Users\alirz\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\nunit.framework.xml
+C:\Users\alirz\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\FlyWeightPattern.csproj.AssemblyReference.cache
+C:\Users\alirz\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\FlyWeightPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\alirz\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\FlyWeightPattern.csproj.CoreCompileInputs.cache
+C:\Users\alirz\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\FlyWeightPattern.csproj.CopyComplete
+C:\Users\alirz\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\FlyWeightPattern.exe
+C:\Users\alirz\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\FlyWeightPattern.pdb
